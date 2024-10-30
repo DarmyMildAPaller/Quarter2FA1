@@ -1,1 +1,3 @@
-# Quarter2FA1
+- This is a Laboratory Activity on Modules 7
+- The topics covered in this activity are advanced css
+- 
